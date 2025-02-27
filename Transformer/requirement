@@ -1,0 +1,8 @@
+transformers==4.40.2
+modelscope==1.23.1
+datasets
+pyarrow
+addict
+sentencepiece
+jsonschema 
+datamodel_code_generator
